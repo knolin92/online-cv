@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: keith.nolin@aa.com
     phone: 254 339 6258
-    timezone: America/Cancun Timezone
+    timezone: America/Central Timezone
 
 
     languages:
@@ -96,11 +96,15 @@ experiences:
       time: August 2019 - July 2021
       company: Envoy Air, Various
       details: |
-        Assist passengers through the check in process.
+        Describe your role here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+        Cum sociis natoque penatibus et magnis dis parturient montes,
+        nascetur ridiculus mus. Donec quam felis, ultricies nec,
+        pellentesque eu, pretium quis, sem.
           - Bullet point
           - Bullet point
 
-    assignments:
+    - assignments:
       - title: Velocity
         link: "#hook"
         tagline: "A responsive website template designed to help startups promote, market and sell their products."
