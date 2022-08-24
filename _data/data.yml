@@ -130,11 +130,11 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Qik
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: Sabre
+        level: 70%
 
       - name: Angular
         level: 98%
