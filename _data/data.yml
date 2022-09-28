@@ -76,42 +76,20 @@ experiences:
       details: |
         Oversee daily station operations for a small regional outstation.
         This included managing the staffing to ensure that all positions were covered,
-        
-          - Bullet point
-          - Bullet point
+        passenger needs were met, flights arrived and departed on time in a safe and
+        efficent manner. I was also responsible for all deicing operations and training
+        for all agents at the location. During this time, I had the opportunity to travel
+        to other stations to assist with staffing during heavy operational days.
     - role: Station Agent
       time: August 2019 - July 2021
       company: Envoy Air, Various
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-
-    - assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
-
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
-
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
-
+        As a frontline agent I was responsible for the day-to-day operation of the station.
+        From assisting passengers at check-in, loading and operating baggage equipment,
+        marshalling aircraft into and out of the gate area, operating passenger boarding
+        bridges, towing aircraft, and communicating with the dispatch office. I also had
+        the opportunity to work an extended temporary assignment in Kalispell, Montana that
+        lasted six months.
 
 skills:
     title: Skills &amp; Proficiency
@@ -123,15 +101,7 @@ skills:
       - name: Sabre
         level: 70%
 
-      - name: Angular
-        level: 98%
+      - name: Microsoft Office
+        level: 75%
 
-      - name: HTML5 & CSS
-        level: 95%
-
-      - name: Ruby on Rails
-        level: 85%
-
-      - name: Sketch & Photoshop
-        level: 60%
 
