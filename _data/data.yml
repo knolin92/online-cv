@@ -50,8 +50,17 @@ education:
       details: |
       
 experiences:
+    - role: Pilot Crew Scheduler
+      time: February 2023 - Present
+      company: Envoy Air, Irving, TX
+      details: |
+        Schedule and monitor Captains and First Officers while maintaining the integrity
+        of the operation. Use Sabre, Crew Watch, and Screen Printer to monitor FAR legalities.
+        Call and assign Reserve Crew Members to flights while following all terms of the pilot
+        contract. Communicate with management on any issues that arise. Fix crew members'
+        schedules when sequences are failing in order to maintain operational integrity.
     - role: Operations Supervisor
-      time: April 2022 - Present
+      time: April 2022 - February 2023
       company: Envoy Air, Irving, TX
       details: |
         Manage the gate assignments and coordinate with all departments for the
