@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Keith C. Nolin
-    tagline: Crew Scheduler
+    tagline: Station Supervisor
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -56,7 +56,7 @@ experiences:
       details: |
         Schedule and support a team of 8 agents with various tasks including checking in passengers,
         creating and verifying manifests for each flight, and maintaining training records. I am also responsible for supply
-        ordering and hiring for the station.
+        ordering and hiring for the station. 
     - role: Crew Scheduler
       time: February 2023 - April 2024
       company: Envoy Air, Irving, TX
