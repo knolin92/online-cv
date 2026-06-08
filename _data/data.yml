@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Keith C. Nolin
-    tagline: Station Supervisor
+    tagline: Station Manager
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -36,13 +36,13 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I have been in the aviation industry with Envoy for 5 years. I
+      I have been in the aviation industry for 7 years. I
       started as an part-time crossfunctional station agent. I gained
       experience during a six month temporary duty assignment in Kalispell, Montana.
       During that assignment, I was promoted to a supervisor position in
       Killeen-Fort Hood, Texas where I learned the management side of the industry.
       Following that, I became an Operations Supervisor at Envoy's largest hub, Dallas-
-      Fort Worth International Airport. I currently serve as a Station Supervisor for Southern Airways Express in DFW.
+      Fort Worth International Airport. I currently serve as a Station Manager for Southern Airways in DFW.
 education:
     - degree: High School Diploma
       university: La Porte High School
@@ -50,6 +50,13 @@ education:
       details: |
       
 experiences:
+    - role: Station Supervisor
+      time: December 2025 - Present
+      company: Southern Airways, Grapevine, TX
+      details: |
+        Promoted in December 2026, I continue to perform the same roles listed. Schedule and support a team of 8 agents with various tasks including checking in passengers,
+        creating and verifying manifests for each flight, and maintaining training records. I am also responsible for supply
+        ordering and hiring for the station. Manage and monitor time and attendance.
     - role: Station Supervisor
       time: April 2024 - Present
       company: Southern Airways Express, Grapevine, TX
